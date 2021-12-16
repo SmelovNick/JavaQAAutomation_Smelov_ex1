@@ -1,7 +1,5 @@
-import java.sql.Time;
 import java.time.LocalTime;
 import java.util.Scanner;
-import java.util.Timer;
 
 public class Main {
     //упражнение 1
